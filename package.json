@@ -1,5 +1,5 @@
 {
-  "name": "node-mpv",
+  "name": "node-mpv-km",
   "version": "2.0.1",
   "description": "A Node module for MPV",
   "main": "index.js",
